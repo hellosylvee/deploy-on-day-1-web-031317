@@ -140,6 +140,11 @@ img {
     height: auto;
 }
 
+.img-icon {
+  height: 14px;
+  margin-right: 3px;
+}
+
 /* ===[ Layout Styles ]===================================================== */
 
 .main-wrapper {
@@ -3094,4 +3099,8 @@ body.students a{color:#60BDDB} /*Causing the social icons to be blue*/
 
 .smooth-scroller {
     padding-top: 20px;
+}
+
+.david-fix {
+    margin-bottom: 14%;
 }
