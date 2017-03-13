@@ -140,6 +140,11 @@ img {
     height: auto;
 }
 
+.img-icon {
+  height: 14px;
+  margin-right: 3px;
+}
+
 /* ===[ Layout Styles ]===================================================== */
 
 .main-wrapper {
